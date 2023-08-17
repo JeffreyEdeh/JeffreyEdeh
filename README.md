@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/JeffreyEdeh/Failed_RDP_Logins_Source_IP_to_full_GeoData_Conversion)
+  - [Visualising Failed RDP Login Attempts On a World Using Source IP](https://github.com/JeffreyEdeh/Failed_RDP_Logins_Source_IP_to_full_GeoData_Conversion)
 
 <h2> 🎓Certifications:</h2>
 
